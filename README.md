@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mekong Water Alliance
 
 Mekong Water Alliance is the hub for international researchers around the globe to share research ideas and metadata of their projects in the Mekong Region.
 
