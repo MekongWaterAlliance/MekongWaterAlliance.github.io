@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+Mekong Water Alliance is the hub for international researchers around the globe to share research ideas and metadata of their projects.
+
+### Below is the example how to use script in Github to write this page !
+
 You can use the [editor on GitHub](https://github.com/MekongWaterAlliance/MekongWaterAlliance.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
